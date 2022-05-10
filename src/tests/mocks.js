@@ -14,6 +14,10 @@ export const Types = ['Electric', 'Fire', 'Bug', 'Poison',
 
 export const PokemonCard = {
   name: 'Pikachu',
-  type: 'Eletric',
-  averageWeight: '6.0kg',
+  type: 'Electric',
+  id: '25',
+  averageWeight: {
+    value: '6.0',
+    measurementUnit: 'kg',
+  },
 };
