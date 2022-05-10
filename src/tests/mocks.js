@@ -21,3 +21,7 @@ export const PokemonCard = {
     measurementUnit: 'kg',
   },
 };
+
+export const Locations = ['Kanto Viridian Forest', 'Kanto Power Plant'];
+
+export const urlLocations = ['https://cdn2.bulbagarden.net/upload/0/08/Kanto_Route_2_Map.png', 'https://cdn2.bulbagarden.net/upload/b/bd/Kanto_Celadon_City_Map.png'];
