@@ -21,3 +21,20 @@ _Projeto realizado para pratica de RTL, aplicação ja veio desenvolvida pelo ti
  * React;
  * JavaScript;
  * React Testing Library
+
+# Clone o repositório
+ * git clone git@github.com:daniel-s-souza/RTL-Projetc.git
+
+**Entre na pasta do repositório que você acabou de clonar:**
+
+ * cd RTL-Project
+
+**Instale as dependências**
+ 
+ * npm install
+
+**Execução dos testes** 
+ 
+ * npm test (executa todos os testes)
+ 
+ * npm test About.test.js (executa apenas o teste About.js)
